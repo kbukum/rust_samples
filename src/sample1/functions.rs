@@ -1,5 +1,6 @@
 
-pub fn test2() {
+pub fn test() {
+    println!("## Functions Tests ");
     empty();
     print_one_number_parameter(5);
     print_two_params(7, 8);

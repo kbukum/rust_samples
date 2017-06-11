@@ -1,6 +1,7 @@
 
 
-pub fn test4(){
+pub fn test(){
+    println!("## Loops Tests ");
   // ## if and loop statements
   // ## if statement
   equalsFiveOrNot(5);

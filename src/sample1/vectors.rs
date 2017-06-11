@@ -1,5 +1,6 @@
 
-pub fn test5(){
+pub fn test(){
+    println!("## Vectors Tests ");
     /*
     ## non primitive types
     */

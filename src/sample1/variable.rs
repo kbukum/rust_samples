@@ -1,4 +1,5 @@
-pub fn test1(){
+pub fn test(){
+    println!("## Variables Tests ");
     // type inference
     // let x: i32; you need to initialize value
    let x = 5;

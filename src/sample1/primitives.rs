@@ -1,6 +1,7 @@
 
 
-pub fn test3(){
+pub fn test(){
+    println!("## Primitives Tests ");
     /*
     ## boolean types
     */

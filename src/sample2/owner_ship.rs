@@ -1,4 +1,5 @@
-pub fn test1() {
+pub fn test() {
+    println!("## Owner Ship Tests ");
     move_when_assign_non_primitive_variables();
     copy_when_assign_primitive_variables();
 }
